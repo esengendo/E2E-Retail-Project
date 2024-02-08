@@ -72,7 +72,7 @@ For a deeper understanding of the concepts and integrations used in this applica
 
 ## Contributions
 
-I encourage contributions to this project. Feel free to submit pull requests or report issues on our GitHub repository.
+I encourage contributions to this project. Feel free to submit pull requests or report issues on my GitHub repository.
 
 
 ## Contact
