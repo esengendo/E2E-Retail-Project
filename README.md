@@ -1,8 +1,12 @@
-# Few Shot Prompting with Google Palm, LangChain, MySQL, and Streamlit
+# IntelliQuery: End-to-End Text-to-SQL Conversion and Database Querying Application using Few Shot Prompting with Google Palm, LangChain, MySQL, and Streamlit
 
 ## Overview
 
-This application showcases the integration of Few Shot Prompting using Google Palm, LangChain, MySQL, and Streamlit to enable natural language interactions with a Large Language Model (LLM) for generating and executing SQL queries. The application is particularly adept at extracting data from backend data stores or APIs using the "Retrieval Augmented Generation" (RAG) approach.
+This application showcases the integration of Few Shot Prompting using Google Palm, LangChain, MySQL, and Streamlit to enable natural language interactions with a Large Language Model (LLM) for generating and executing SQL queries. The application is particularly adept at extracting data from a backend SQL database using the "Retrieval Augmented Generation" (RAG) approach.
+
+## Objective: 
+
+I developed a seamless integration tool combining Google Palm and LangChain with my custom-built MySQL database for the Threadz E-Store, and Streamlit. This application is designed to enable intuitive and efficient data extraction using Few Shot Prompting. It focuses on streamlining both data querying and extraction processes, thereby enhancing the efficiency and intuitiveness of SQL database handling. This tool empowers users with streamlined access to essential data insights, simplifying the retrieval of complex datasets.
 
 ## Features
 
