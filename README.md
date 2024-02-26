@@ -6,7 +6,7 @@ This application showcases the integration of Few Shot Prompting using Google Pa
 
 ## Objective: 
 
-I developed a seamless integration tool combining Google Palm and LangChain with my custom-built MySQL database for the Threadz E-Store, and Streamlit. This application is designed to enable intuitive and efficient data extraction using Few Shot Prompting. It focuses on streamlining both data querying and extraction processes, thereby enhancing the efficiency and intuitiveness of SQL database handling. This tool empowers users with streamlined access to essential data insights, simplifying the retrieval of complex datasets.
+I developed a seamless integration tool combining Google Palm and LangChain with my custom-built MySQL database for the Threadz E-Store, and Streamlit. This application is designed to enable intuitive and efficient data extraction using Few Shot Prompting. It focuses on streamlining both data querying and extraction processes, thereby enhancing the efficiency and intuitiveness of SQL database handling. This tool empowers users with streamlined access to essential data insights, simplifying the retrieval of critical data from SQL Databases.
 
 ## Features
 
