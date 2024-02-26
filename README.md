@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application showcases the integration of Few Shot Prompting using Google Palm, LangChain, MySQL, and Streamlit to enable natural language interactions with a Large Language Model (LLM) for generating and executing SQL queries. The application is particularly adept at extracting data from a backend SQL database using the "Retrieval Augmented Generation" (RAG) approach.
+This application showcases the integration of Few Shot Prompting using Google Palm, LangChain, MySQL, and Streamlit to enable natural language interactions with a Large Language Model (LLM) for generating and executing SQL queries. The application is particularly adept at extracting data from any backend SQL database using the "Retrieval Augmented Generation" (RAG) approach.
 
 ## Objective: 
 
